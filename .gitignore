@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.dart_tool/
+.packages
+doc/api/
+__pycache__/
+htmlcov
+.coverage
+Data/
+.env
+TestEnv.py
+venv
+
